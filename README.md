@@ -1,3 +1,3 @@
-<p style="text-align: center;">
+<p align="center">
 HudaCafe
 </p>
